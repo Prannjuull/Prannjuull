@@ -1,7 +1,7 @@
 
 # **I'm Pranjul**
 
-**trying to lift and commit at the same time...**
+**Committing and Lifting**
 
 
 I'm currently learning Web3 — it's a space that genuinely interests me, and I enjoy exploring how it works under the hood.
